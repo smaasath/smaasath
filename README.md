@@ -1,4 +1,3 @@
-![MasterHead](https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-49-1.webp)
 <h1 align="center">Hi 👋, I'm Mohamed Aasath</h1>
 <h3 align="center">A passionate Full Stack developer from Srilanka</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
